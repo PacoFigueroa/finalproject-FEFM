@@ -13,11 +13,11 @@
 
 ## 0. Ficha del proyecto
 
-### \*\*0.1. Tu nombre completo: Francisco Eduardo Figueroa Mendoza
+### \*\*0.1. Tu nombre completo:\*\* Francisco Eduardo Figueroa Mendoza
 
-### \*\*0.2. Nombre del proyecto: The Secret Cap's Society
+### \*\*0.2. Nombre del proyecto:\*\* The Secret Cap's Society
 
-### \*\*0.3. Descripción breve del proyecto:
+### \*\*0.3. Descripción breve del proyecto:\*\*
 
 The Secret Caps Society es una plataforma exclusiva para revendedores de gorras New Era, donde cada tienda puede registrarse y publicar sus productos de manera gratuita. Más que un marketplace, es una comunidad secreta para verdaderos coleccionistas y fanáticos, diseñada para conectar a los amantes de las caps con las piezas más buscadas del mercado.
 
