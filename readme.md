@@ -342,7 +342,7 @@ La aplicación _The Secret Caps Society_ se despliega sobre un stack moderno ser
 flowchart TD
   subgraph Frontend["Frontend"]
     A1[Next.js + TailwindCSS]
-    A2[Jest + E2E (Playwright/Cypress)]
+    A2[Jest + E2E Playwright/Cypress]
   end
 
   subgraph Backend["Backend / API"]
@@ -352,8 +352,8 @@ flowchart TD
   end
 
   subgraph Infraestructura["Infraestructura"]
-    C1[Vercel (Hosting & CDN)]
-    C2[GitHub (CI/CD)]
+    C1[Vercel Hosting & CDN]
+    C2[GitHub CI/CD]
   end
 
   A1 -->|HTTPS Requests| B1
